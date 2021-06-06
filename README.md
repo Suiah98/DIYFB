@@ -6,13 +6,13 @@ DIYFB provides automatic scanning and Fing alerts and much more! (even if you ar
 
 ## NOTE: If you have Fing Desktop, you may not be able to scan the network from Fing on Android, Fing links Fing Desktop to scan FingBox style, this if you leave the PC always on, it is another alternative to FingBox and DIYFB. 
 
-<img src="https://github.com/Suian98/DIYFB/blob/master/assets/fingscreenshot1.png" width="360">
+<img src="https://github.com/Suian98/DIYFB/blob/main/assets/fingscreenshot1.png" width="360">
 (Fing in first smartphone on other network , where we can see the last scan of the fing account)
 <br><br>
-<img src="https://github.com/Suian98/DIYFB/blob/master/assets/fingscreenshot2.png" width="360">
+<img src="https://github.com/Suian98/DIYFB/blob/main/assets/fingscreenshot2.png" width="360">
 (Smartphone with DIYFB , scanning every 5 minutes)
 <br><br>
-<img src="https://github.com/Suian98/DIYFB/blob/master/assets/fingscreenshot3.png" width="360">
+<img src="https://github.com/Suian98/DIYFB/blob/main/assets/fingscreenshot3.png" width="360">
 (Alerts in Gmail)
 
 # Requirements:
