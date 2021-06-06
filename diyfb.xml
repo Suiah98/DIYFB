@@ -1,0 +1,692 @@
+<TaskerData sr="" dvi="1" tv="5.11.14">
+	<Setting sr="prefs0">
+		<n>leEnle</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs1">
+		<n>guped</n>
+		<t>l</t>
+		<v>120</v>
+	</Setting>
+	<Setting sr="prefs10">
+		<n>custntasktwo</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs11">
+		<n>pen</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs12">
+		<n>apl</n>
+		<t>i</t>
+		<v>4</v>
+	</Setting>
+	<Setting sr="prefs13">
+		<n>appcheckMethod</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs14">
+		<n>apn</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs15">
+		<n>proxWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs16">
+		<n>acrmd</n>
+		<t>l</t>
+		<v>1200</v>
+	</Setting>
+	<Setting sr="prefs17">
+		<n>mSi</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs18">
+		<n>sHapt</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs19">
+		<n>themeMaterial</n>
+		<t>i</t>
+		<v>9</v>
+	</Setting>
+	<Setting sr="prefs2">
+		<n>pressureWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs20">
+		<n>magnetWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs21">
+		<n>humidityWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs22">
+		<n>lperiod</n>
+		<t>l</t>
+		<v>1500</v>
+	</Setting>
+	<Setting sr="prefs23">
+		<n>bkcuva</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs24">
+		<n>lcD</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs25">
+		<n>aExt</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs26">
+		<n>acMSr</n>
+		<t>l</t>
+		<v>300</v>
+	</Setting>
+	<Setting sr="prefs27">
+		<n>btpiod</n>
+		<t>l</t>
+		<v>120</v>
+	</Setting>
+	<Setting sr="prefs28">
+		<n>wakeForLoc</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs29">
+		<n>dsd</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs3">
+		<n>sows</n>
+		<t>l</t>
+		<v>60</v>
+	</Setting>
+	<Setting sr="prefs30">
+		<n>hardwareAccel</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs31">
+		<n>workForLoc</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs32">
+		<n>adbwp</n>
+		<t>s</t>
+		<v>5555</v>
+	</Setting>
+	<Setting sr="prefs33">
+		<n>custntaskone</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs34">
+		<n>wfpiod</n>
+		<t>l</t>
+		<v>120</v>
+	</Setting>
+	<Setting sr="prefs35">
+		<n>ast1</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs36">
+		<n>gupt</n>
+		<t>l</t>
+		<v>90</v>
+	</Setting>
+	<Setting sr="prefs37">
+		<n>dragModeNew</n>
+		<t>i</t>
+		<v>4</v>
+	</Setting>
+	<Setting sr="prefs38">
+		<n>ast0</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs39">
+		<n>lPEna</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs4">
+		<n>oss</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs40">
+		<n>listMarginWidthPercent</n>
+		<t>i</t>
+		<v>20</v>
+	</Setting>
+	<Setting sr="prefs41">
+		<n>lightWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs42">
+		<n>saena</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs43">
+		<n>lfdd</n>
+		<t>l</t>
+		<v>600</v>
+	</Setting>
+	<Setting sr="prefs44">
+		<n>csnipD</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs45">
+		<n>notactions</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs46">
+		<n>sigmotion</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs47">
+		<n>luped</n>
+		<t>l</t>
+		<v>30</v>
+	</Setting>
+	<Setting sr="prefs48">
+		<n>gak</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs49">
+		<n>mqt</n>
+		<t>i</t>
+		<v>10</v>
+	</Setting>
+	<Setting sr="prefs5">
+		<n>pTs</n>
+		<t>i</t>
+		<v>17</v>
+	</Setting>
+	<Setting sr="prefs50">
+		<n>googleDriveBackups</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs51">
+		<n>cust_notification</n>
+		<t>s</t>
+		<v>cust_notification</v>
+	</Setting>
+	<Setting sr="prefs52">
+		<n>accelWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs53">
+		<n>qst2</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs54">
+		<n>nfcda</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs55">
+		<n>fExtCache</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs56">
+		<n>stepsWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs57">
+		<n>kit</n>
+		<t>i</t>
+		<v>1001</v>
+	</Setting>
+	<Setting sr="prefs58">
+		<n>beginnerMode</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs59">
+		<n>avo</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs6">
+		<n>custntaskthree</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs60">
+		<n>tEnable</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs61">
+		<n>accentIndex</n>
+		<t>i</t>
+		<v>-1</v>
+	</Setting>
+	<Setting sr="prefs62">
+		<n>tempWhenOff</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs63">
+		<n>lang</n>
+		<t>s</t>
+		<v>es</v>
+	</Setting>
+	<Setting sr="prefs64">
+		<n>ast3</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs65">
+		<n>ast2</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs66">
+		<n>asactions</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs67">
+		<n>snopin</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs68">
+		<n>wip</n>
+		<t>l</t>
+		<v>10</v>
+	</Setting>
+	<Setting sr="prefs69">
+		<n>bttp</n>
+		<t>l</t>
+		<v>15</v>
+	</Setting>
+	<Setting sr="prefs7">
+		<n>lae</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs70">
+		<n>anm</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs71">
+		<n>newCellApi</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs72">
+		<n>kcph</n>
+		<t>s</t>
+		<v>PBEWithMD5And128BitAES-CBC-OpenSSL</v>
+	</Setting>
+	<Setting sr="prefs73">
+		<n>accMR</n>
+		<t>f</t>
+		<v>3.5</v>
+	</Setting>
+	<Setting sr="prefs74">
+		<n>lph</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs75">
+		<n>qst1</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs76">
+		<n>qst0</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
+	<Setting sr="prefs77">
+		<n>hideStatusBar</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs78">
+		<n>saveMemory</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs79">
+		<n>clock_alarm</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
+	<Setting sr="prefs8">
+		<n>lEnable</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs80">
+		<n>uiori</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs81">
+		<n>tpEn</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs82">
+		<n>lockIconColour</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs83">
+		<n>lPdta</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs84">
+		<n>sExps</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Setting sr="prefs85">
+		<n>sbl</n>
+		<t>i</t>
+		<v>0</v>
+	</Setting>
+	<Setting sr="prefs9">
+		<n>mFn</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
+	<Profile sr="prof5" ve="2">
+		<cdate>1591553102304</cdate>
+		<edate>1612732720596</edate>
+		<flags>2</flags>
+		<id>5</id>
+		<limit>true</limit>
+		<mid0>4</mid0>
+		<nme>DIYFB Scan Free</nme>
+		<Share sr="Share">
+			<d>DIYFB provides automatic scanning and Fing alerts and much more! (even if you are in another network) (TouchTask Version)</d>
+			<p>false</p>
+			<t></t>
+		</Share>
+		<Time sr="con0">
+			<fh>-1</fh>
+			<fm>-1</fm>
+			<rep>2</rep>
+			<repval>5</repval>
+			<th>-1</th>
+			<tm>-1</tm>
+		</Time>
+	</Profile>
+	<Profile sr="prof9" ve="2">
+		<cdate>1591560524045</cdate>
+		<edate>1612732684955</edate>
+		<flags>2</flags>
+		<id>9</id>
+		<limit>true</limit>
+		<mid0>8</mid0>
+		<nme>DIYFB Scan</nme>
+		<Share sr="Share">
+			<d>DIYFB provides automatic scanning and Fing alerts and much more! (even if you are in another network) (AutoInput Version)</d>
+			<p>false</p>
+			<t></t>
+		</Share>
+		<Time sr="con0">
+			<fh>-1</fh>
+			<fm>-1</fm>
+			<rep>2</rep>
+			<repval>5</repval>
+			<th>-1</th>
+			<tm>-1</tm>
+		</Time>
+	</Profile>
+	<Project sr="proj0" ve="2">
+		<cdate>1591553000586</cdate>
+		<mdate>1591560524045</mdate>
+		<name>Base</name>
+		<pids>5,9</pids>
+		<tids>4,8</tids>
+		<Img sr="icon" ve="2">
+			<nme>mw_action_home</nme>
+		</Img>
+	</Project>
+	<Task sr="task4">
+		<cdate>1550697562882</cdate>
+		<edate>1612732720596</edate>
+		<id>4</id>
+		<nme>DIYFB Scan Free</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>806</code>
+			<Int sr="arg0" val="500"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act10" ve="7">
+			<code>16</code>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>25</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="2"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>985050481</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.balda.meteotask.extra.INT_VERSION_CODE>96</com.balda.meteotask.extra.INT_VERSION_CODE>
+					<com.balda.meteotask.extra.INT_VERSION_CODE-type>java.lang.Integer</com.balda.meteotask.extra.INT_VERSION_CODE-type>
+					<com.balda.meteotask.extra.OPERATION>2</com.balda.meteotask.extra.OPERATION>
+					<com.balda.meteotask.extra.OPERATION-type>java.lang.Integer</com.balda.meteotask.extra.OPERATION-type>
+					<com.balda.touchtask.extra.SELECTION>Deteccion de redes</com.balda.touchtask.extra.SELECTION>
+					<com.balda.touchtask.extra.SELECTION-type>java.lang.String</com.balda.touchtask.extra.SELECTION-type>
+					<com.balda.touchtask.extra.SEL_METHOD>0</com.balda.touchtask.extra.SEL_METHOD>
+					<com.balda.touchtask.extra.SEL_METHOD-type>java.lang.Integer</com.balda.touchtask.extra.SEL_METHOD-type>
+					<com.balda.touchtask.extra.TYPE>16</com.balda.touchtask.extra.TYPE>
+					<com.balda.touchtask.extra.TYPE-type>java.lang.Integer</com.balda.touchtask.extra.TYPE-type>
+					<com.balda.touchtask.extra.WAIT_REGEX>false</com.balda.touchtask.extra.WAIT_REGEX>
+					<com.balda.touchtask.extra.WAIT_REGEX-type>java.lang.Boolean</com.balda.touchtask.extra.WAIT_REGEX-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Action: Tap Method: Text Selection: Deteccion de redes</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.balda.touchtask.extra.SELECTION</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.balda.touchtask</Str>
+			<Str sr="arg2" ve="3">com.balda.touchtask.ui.FirePerformActions</Str>
+			<Int sr="arg3" val="30"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="14"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>245</code>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>245</code>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>245</code>
+		</Action>
+		<Action sr="act9" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="2"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task8">
+		<cdate>1550697562882</cdate>
+		<edate>1612732684955</edate>
+		<id>8</id>
+		<nme>DIYFB Scan</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>806</code>
+			<Int sr="arg0" val="500"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act10" ve="7">
+			<code>16</code>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.overlook.android.fing.ui.main.SplashActivity</appClass>
+				<appPkg>com.overlook.android.fing</appPkg>
+				<label>Fing:ui.main.SplashActivity</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="6"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>1732635924</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ActionId>Buscar dispositivos</ActionId>
+					<ActionId-type>java.lang.String</ActionId-type>
+					<ActionType>16</ActionType>
+					<ActionType-type>java.lang.String</ActionType-type>
+					<EnableDisableAccessibilityService>&lt;null&gt;</EnableDisableAccessibilityService>
+					<EnableDisableAccessibilityService-type>java.lang.String</EnableDisableAccessibilityService-type>
+					<FieldSelectionType>0</FieldSelectionType>
+					<FieldSelectionType-type>java.lang.String</FieldSelectionType-type>
+					<IsFirstAction>false</IsFirstAction>
+					<IsFirstAction-type>java.lang.Boolean</IsFirstAction-type>
+					<IsTaskerAction>false</IsTaskerAction>
+					<IsTaskerAction-type>java.lang.Boolean</IsTaskerAction-type>
+					<NearbyText>&lt;null&gt;</NearbyText>
+					<NearbyText-type>java.lang.String</NearbyText-type>
+					<Password>&lt;null&gt;</Password>
+					<Password-type>java.lang.String</Password-type>
+					<RepeatInterval>&lt;null&gt;</RepeatInterval>
+					<RepeatInterval-type>java.lang.String</RepeatInterval-type>
+					<RepeatTimes>&lt;null&gt;</RepeatTimes>
+					<RepeatTimes-type>java.lang.String</RepeatTimes-type>
+					<StoredAction>&lt;null&gt;</StoredAction>
+					<StoredAction-type>java.lang.String</StoredAction-type>
+					<TextToWrite>&lt;null&gt;</TextToWrite>
+					<TextToWrite-type>java.lang.String</TextToWrite-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Type: Text
+Value: Buscar dispositivos
+Action : Click</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>ActionId FieldSelectionType ActionType plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>906f2baa-bb64-4eee-b20a-c80f66627d49</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoinput</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autoinput.activity.ActivityConfigPerformAction</Str>
+			<Int sr="arg3" val="23"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="15"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>245</code>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>245</code>
+		</Action>
+		<Action sr="act8" ve="7">
+			<code>245</code>
+		</Action>
+		<Action sr="act9" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="2"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
