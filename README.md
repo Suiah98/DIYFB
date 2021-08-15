@@ -32,8 +32,6 @@ DIYFB provides automatic scanning and Fing alerts and much more! (even if you ar
 
 -Remove any type of screen lock
 
--Import the profile
-
 <img src="https://raw.githubusercontent.com/Suian98/DIYFB/master/assets/fingscreenshot4.jpg" width="360">
 
     Warning: before using DIYFB, make sure to leave a fing shortcut like the one in the photo on your desktop, otherwise it won't work
