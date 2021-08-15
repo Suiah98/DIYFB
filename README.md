@@ -16,36 +16,27 @@ DIYFB provides automatic scanning and Fing alerts and much more! (even if you ar
 (Alerts in Gmail)
 
 # Requirements:
--DIYFB Profile:
-
-[AutoInput Version](https://taskernet.com/shares/?user=AS35m8lICRjZ0BC%2FadBRy5CG7jKycXCPD%2F3sWKp8bgYysvcGwPueumGy8OcQJdkKMoY%3D&id=Profile%3ADIYFB+Scan#)
-
-[TouchTask Version](https://taskernet.com/shares/?user=AS35m8lICRjZ0BC%2FadBRy5CG7jKycXCPD%2F3sWKp8bgYysvcGwPueumGy8OcQJdkKMoY%3D&id=Profile%3ADIYFB+Scan+Free#)
-
+-[DIYFB Profile](https://taskernet.com/shares/?user=AS35m8lICRjZ0BC%2FadBRy5CG7jKycXCPD%2F3sWKp8bgYysvcGwPueumGy8OcQJdkKMoY%3D&id=Profile%3ADIYFB+Scan+1.0)
 
 -[Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=es)
 
--[AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput)
-
--[TouchTask](https://play.google.com/store/apps/details?id=com.balda.touchtask&hl=es) (if you want the free plugin)
+-[TouchTask](https://play.google.com/store/apps/details?id=com.balda.touchtask&hl=es)
 
 -[Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing)
 
 -A linked Fing account for synchronization with the cloud
 
 # Installation:
-
-    Please note that diyfb was made with the Spanish Fing version, it may fail with another language
    
--Simply import the diyfb.xml profile in Tasker on a device that you don't use and be in your home network
+-Simply import the DIYFB.xml profile in Tasker on a device that you don't use and be in your home network
 
 -Remove any type of screen lock
 
--You will find 2 profiles above to download, one uses AutoInput that is paid and the other profile uses TouchTask that is free, use the one that suits you
+-Import the profile
 
 <img src="https://raw.githubusercontent.com/Suian98/DIYFB/master/assets/fingscreenshot4.jpg" width="360">
 
-    Warning: before using the TouchTask version, make sure to leave a fing shortcut like the one in the photo on your desktop, otherwise it won't work
+    Warning: before using DIYFB, make sure to leave a fing shortcut like the one in the photo on your desktop, otherwise it won't work
 
 -Try the profile, you may have to give accessibility permission to any of the applications
 
