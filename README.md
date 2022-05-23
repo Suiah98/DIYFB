@@ -1,4 +1,4 @@
-# DIYFB 1.0 - A DIY FingBox AutoApps Project
+# DIYFB 1.0 - A DIY FingBox AutoApps Project (Project Closed)
 
 ## DIYFB does not give the same experience as a FingBox!!
 
